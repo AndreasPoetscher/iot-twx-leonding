@@ -1,0 +1,1 @@
+### Beispiel geolocation in Thingworx
